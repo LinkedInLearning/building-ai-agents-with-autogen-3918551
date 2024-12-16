@@ -1,7 +1,7 @@
 # Building AI Agents with AutoGen
 This is the repository for the LinkedIn Learning course `Building AI Agents with AutoGen`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-[lil-thumbnail-url]
+![lil-thumbnail-url]
 
 ## Course Description
 
