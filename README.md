@@ -1,6 +1,12 @@
 # Building AI Agents with AutoGen
 This is the repository for the LinkedIn Learning course `Building AI Agents with AutoGen`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+[lil-thumbnail-url]
+
+## Course Description
+
+In this comprehensive, Harshit Tyagi—a data science instructor and mentor—equips you with the skills to develop AI agents using the AutoGen framework. Covering key design patterns such as Reflection, Tool Use, and Multi-Agent Collaboration, this course enables the creation of multi-agent systems capable of handling complex tasks autonomously. Through hands-on projects, you will integrate external tools and refine agent capabilities with human feedback. Ideal for intermediate to advanced users with basic Python experience, this course prepares you to automate complex workflows effectively.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -20,15 +26,18 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Instructor
 
+Harshit Tyagi
+
+Data Science Instructor and Mentor
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/harshit-tyagi?u=104).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/building-ai-agents-with-autogen
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQEaGkD0drYEfw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734115533562?e=2147483647&v=beta&t=j4Qna4rUwAkVN5mXU2KPJx8D7pnDubEPcz6-7uva8gs
 
